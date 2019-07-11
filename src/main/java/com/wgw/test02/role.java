@@ -13,4 +13,5 @@ public class role {
 
     //和平安
     private String hpa;
+    private String ght;
 }
