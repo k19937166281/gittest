@@ -7,4 +7,5 @@ public class role {
     private String aaaa;
 
     private String asfas;
+    private String ii;
 }
