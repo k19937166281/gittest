@@ -8,4 +8,6 @@ public class role {
 
     private String asfas;
     private String ii;
+    //王高威
+    private String wgw;
 }
