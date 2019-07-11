@@ -11,6 +11,7 @@ public class role {
     //王高威
     private String wgw;
     private String 先生神人也;
+    private String testStr;
     //和平安
     private String hpa;
     private String ght;
