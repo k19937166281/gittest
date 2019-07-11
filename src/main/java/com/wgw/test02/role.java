@@ -10,4 +10,7 @@ public class role {
     private String ii;
     //王高威
     private String wgw;
+
+    //和平安
+    private String hpa;
 }
