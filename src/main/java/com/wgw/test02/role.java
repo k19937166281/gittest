@@ -18,4 +18,7 @@ public class role {
     private String zwf;
     private String xwy;
 
+
+    //zs
+    private String zs;
 }
